@@ -6,3 +6,7 @@
 *.pdf
 *.png
 *.rmd
+*.jpg
+*.csv
+
+/raw_data/*
