@@ -8,5 +8,6 @@
 *.rmd
 *.jpg
 *.csv
+*.vn
 
 /raw_data/*
